@@ -1,0 +1,44 @@
+---
+title: "Tarea1. Dalila Sarabia"
+date: "9/24/2020"
+output: html_document
+---
+
+# Tiraderos clandestinos en la CDMX
+#### Cuando las calles se convierten en basureros
+
+<p> En la Ciudad de México diariamente se da batalla contra los tiraderos clandestinos. Basura, cascajo y hasta muebles es posible encontrar tirado en las calles de la CDMX. </p>
+
+<p> De acuerdo a datos del Gobierno de la Ciudad de México, los cuales se pueden consultar en su portal de Datos Abiertos, se advierte que la Alcaldía de Cuauhtémoc es la demarcación en la que se concentra esta problemática.</p>
+
+```{r, optiones,nombre}
+```
+
+
+
+
+
+
+
+
+
+
+
+| Alcaldia            | No. postes con wifi gratis |
+|---------------------|----------------------------|
+| Iztapalapa          | 2100                       |
+| Gustavo A. Madero   | 1790                       |
+| Cuauhtemoc          | 1448                       |
+| Venustiano Carranza | 990                        |
+| Miguel Hidalgo      | 926                        |
+| Coyoacan            | 907                        |
+| Alvaro Obregon      | 899                        |
+| Benito Juarez       | 796                        |
+| Tlalpan             | 753                        |
+| Azcapotzalco        | 707                        |
+| Iztacalco           | 664                        |
+| Tlahuac             | 540                        |
+| Xochimilco          | 416                        |
+| Magdalena Contreras | 305                        |
+| Cuajimalpa          | 239                        |
+| Milpa Alta          | 214                        |
